@@ -20,6 +20,7 @@
         android:layout_height="wrap_content"
         android:text="Nothing"
         android:layout_centerHorizontal="true"
+        textSize = "30sp"
         />
 
 </RelativeLayout>
